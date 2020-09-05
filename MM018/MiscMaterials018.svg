@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="144"
    inkscape:export-xdpi="144"
-   inkscape:export-filename="/home/thelibredesigner/Documents/MiscMaterials/MM018/MiscMaterials018.png"
+   inkscape:export-filename="/home/thelibredesigner/Documents/MiscMaterials/MM017/MiscMaterials017.png"
    sodipodi:docname="MiscMaterials018.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -42,6 +42,30 @@
          x="612.10968"
          y="-96.29277" />
     </clipPath>
+    <clipPath
+       id="clipPath2633"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="27.206408"
+         x="15.607492"
+         height="203.2"
+         width="203.2"
+         id="rect2635"
+         style="fill:#848478;fill-opacity:1;stroke:none;stroke-width:1.50416;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <filter
+       height="1.0005344"
+       y="-0.00026720214"
+       width="1.0003268"
+       x="-0.00016341343"
+       id="filter2685"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur2687"
+         stdDeviation="0.024462382"
+         inkscape:collect="always" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -51,11 +75,11 @@
      inkscape:window-width="1680"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="409.11703"
-     inkscape:cx="375.87134"
-     inkscape:zoom="0.58880342"
+     inkscape:cy="346.72845"
+     inkscape:cx="277.8357"
+     inkscape:zoom="0.41634689"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -75,49 +99,25 @@
     </rdf:RDF>
   </metadata>
   <g
+     style="display:inline"
      inkscape:label="Layer 4"
      id="layer4"
      inkscape:groupmode="layer">
-    <g
-       transform="matrix(0.66740164,0,0,0.66740164,-261.58942,123.9004)"
-       id="g217"
-       style="display:inline">
-      <image
-         sodipodi:absref="/home/thelibredesigner/Documents/MiscMaterials/Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         xlink:href="../Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         clip-path="url(#clipPath182)"
-         id="image163"
-         preserveAspectRatio="none"
-         height="793.75"
-         width="609.86456"
-         x="266.116"
-         y="-293.60785" />
-      <image
-         sodipodi:absref="/home/thelibredesigner/Documents/MiscMaterials/Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         xlink:href="../Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         clip-path="url(#clipPath208)"
-         id="image163-7"
-         preserveAspectRatio="none"
-         height="793.75"
-         width="609.86456"
-         x="266.116"
-         y="-293.60785"
-         transform="translate(0,-108.57643)" />
-      <image
-         sodipodi:absref="/home/thelibredesigner/Documents/MiscMaterials/Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         xlink:href="../Images-Graphics/44486025914_5b6bff1a93_3k.jpg"
-         transform="translate(-27.417894,-107.72316)"
-         y="-293.60785"
-         x="266.116"
-         width="609.86456"
-         height="793.75"
-         preserveAspectRatio="none"
-         id="image212"
-         clip-path="url(#clipPath208)" />
-    </g>
+    <image
+       sodipodi:absref="/home/thelibredesigner/Documents/MiscMaterials/Images-Graphics/14577300520_2ddd1f7333_4k.jpg"
+       xlink:href="../Images-Graphics/14577300520_2ddd1f7333_4k.jpg"
+       y="25.29915"
+       x="-109.88154"
+       width="359.27106"
+       height="219.72023"
+       preserveAspectRatio="none"
+       id="image2627"
+       clip-path="url(#clipPath2633)"
+       transform="translate(-15.607492,-27.206408)"
+       style="filter:url(#filter2685)" />
   </g>
   <g
-     style="display:inline;mix-blend-mode:color"
+     style="display:inline;mix-blend-mode:screen"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -128,7 +128,7 @@
        x="-4.9294238"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:208.98px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#c2d3ba;fill-opacity:1;stroke:none;stroke-width:0.522449"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:208.98px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c2d3ba;stroke-width:0.522449"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:208.98px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#848478;stroke-width:0.522449"
          y="152.63951"
          x="-4.9294238"
          id="tspan46"
@@ -146,17 +146,23 @@
          sodipodi:role="line" /></text>
   </g>
   <g
+     style="mix-blend-mode:multiply"
+     inkscape:label="Layer 5"
+     id="layer5"
+     inkscape:groupmode="layer">
+    <rect
+       y="-4.5300294e-07"
+       x="4.4689941e-07"
+       height="203.2"
+       width="203.2"
+       id="rect2692"
+       style="fill:#c2d3ba;fill-opacity:1;stroke:none;stroke-width:1.50416;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
      style="display:inline;mix-blend-mode:multiply"
      inkscape:label="Layer 2"
      id="layer2"
      inkscape:groupmode="layer">
-    <rect
-       y="-12.829639"
-       x="-8.4339895"
-       height="227.67238"
-       width="227.68472"
-       id="rect54"
-       style="fill:#c5c065;fill-opacity:1;stroke:none;stroke-width:1.50416;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        id="text60"
        y="-59.721264"
@@ -176,39 +182,45 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:185.313px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.463285;filter:url(#filter99)"
-       x="-9.9779844"
-       y="207.3535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.7375px;line-height:1.25;font-family:'Sporting Grotesque';-inkscape-font-specification:'Sporting Grotesque, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#2f2926;fill-opacity:1;stroke:none;stroke-width:0.331967;"
+       x="3.6464589"
+       y="69.671181"
+       id="text4492"
+       transform="rotate(2.2790246)"><tspan
+         sodipodi:role="line"
+         id="tspan4490"
+         x="3.6464589"
+         y="69.671181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.7375px;font-family:'Sporting Grotesque';-inkscape-font-specification:'Sporting Grotesque, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f2926;stroke-width:0.331967;">MISC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:113.942px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.284858;filter:url(#filter99)"
+       x="3.0980592"
+       y="202.83792"
        id="text4500"><tspan
          sodipodi:role="line"
          id="tspan4498"
-         x="-9.9779844"
-         y="207.3535"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond Bold Italic';fill:#ffffff;stroke-width:0.463285">018</tspan></text>
+         x="3.0980592"
+         y="202.83792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.942px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.284858">SVNTN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.011px;line-height:1.25;font-family:Steps;-inkscape-font-specification:Steps;letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#2f2926;fill-opacity:1;stroke:none;stroke-width:0.161516"
-       x="7.7286663"
-       y="22.598852"
-       id="text4492"
-       transform="rotate(17.012945)"><tspan
-         sodipodi:role="line"
-         id="tspan4490"
-         x="7.7286663"
-         y="22.598852"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.011px;font-family:Steps;-inkscape-font-specification:Steps;fill:#2f2926;stroke-width:0.161516">MISCELLANEOUS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.3531px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#c2d3ba;fill-opacity:1;stroke:none;stroke-width:0.204964;"
-       x="-52.036442"
-       y="164.8699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.3531px;line-height:0.75;font-family:'BioRhyme Expanded';-inkscape-font-specification:'BioRhyme Expanded, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#c5c065;fill-opacity:1;stroke:none;stroke-width:0.204964;"
+       x="-1.2387128"
+       y="95.888596"
        id="text4496"
-       transform="matrix(0.88493358,-0.42607009,0.39496518,0.93986393,0,0)"><tspan
+       transform="matrix(0.98007034,-0.06407302,0.01467701,1.0193754,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4494"
-         x="-52.036442"
-         y="164.8699"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#c2d3ba;stroke-width:0.204964;"
-         dx="0 0 -3.1040988 -1.9052396 0 -1.3132726 -1.4077884 0 -2.2037115">MATERIALS</tspan></text>
+         x="-1.2387128"
+         y="95.888596"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.3531px;font-family:'BioRhyme Expanded';-inkscape-font-specification:'BioRhyme Expanded, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c5c065;stroke-width:0.204964;"
+         dx="0 0 -3.1040988 -1.9052396">MATE-</tspan><tspan
+         id="tspan1720"
+         sodipodi:role="line"
+         x="-1.2387128"
+         y="125.40342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.3531px;font-family:'BioRhyme Expanded';-inkscape-font-specification:'BioRhyme Expanded, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c5c065;stroke-width:0.204964;"
+         dx="0 -1.3132726 -1.4077884 0 -2.2037115">RIALS</tspan></text>
   </g>
 </svg>
