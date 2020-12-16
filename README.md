@@ -14,7 +14,9 @@ Cover artworks and some text lists for my Miscellaneous Materials Reading Club C
 - MM010
 - MM011
 - MM012
+  - Internet Archive Book Images: Image from page 886 of "Smithsonian miscellaneous collections" (1862) from https://www.flickr.com/photos/internetarchivebookimages/14598558788/
 - MM013
+  - https://www.flickr.com/photos/internetarchivebookimages/14755824312/sizes/m/
 - MM014
 - MM015
 - MM016
