@@ -1,6 +1,11 @@
 # MiscMaterials
 Cover artworks and some text lists for my Miscellaneous Materials Reading Club Collections
 
+## Font List
+Fonts shall be F/LOS!
+
+Here are what has been used so far:
+
 ## Image List
 - MM001
 - MM002
