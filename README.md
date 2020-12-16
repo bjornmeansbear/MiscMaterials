@@ -7,6 +7,7 @@ Fonts shall be F/LOS!
 Here are what has been used so far:
 
 ## Image List
+Images shall be F/LOS or Public Domain... or otherwise Free Cultural works; whatever that means.
 - MM001
 - MM002
 - MM003
